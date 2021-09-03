@@ -62,13 +62,14 @@
       funFact: 'I flew my first airplane at the age of 12.',
     };
  ```
-
-<a href="https://github.com/dimitraweinstein/github-readme-stats">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=dimitraweinstein&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/dimitraweinstein/top-langs">
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitraweinstein&layout=compact&theme=radical&show_icons=true&card_width=450" />
-</a>
-
+ 
+<div align="center">
+  <a href="https://github.com/dimitraweinstein/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitraweinstein&count_private=true&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/dimitraweinstein/top-langs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitraweinstein&layout=compact&theme=radical&show_icons=true&card_width=450" />
+  </a>
+</div>
 
 
