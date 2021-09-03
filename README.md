@@ -8,6 +8,26 @@
   
 </a>
 
-
+  ```
+    const dimitraWeinstein = {
+      name: 'Dimitra Weinstein',
+      pronouns: [ 'she', 'her' ],
+      age: 32,
+      location: {
+        city: 'Portland',
+        state: 'Oregon',
+      },
+      education: [],
+      currentJob: {},
+      contact: {},
+      parentOfHuman: true,
+      humanChild: {},
+      animalLover: true,
+      favoriteAnimals: {},
+      pets: {},
+      hobbies: {},
+      funFacts: {},
+    };
+ ```
 
 
