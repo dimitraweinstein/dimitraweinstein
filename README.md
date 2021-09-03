@@ -28,10 +28,10 @@
         company: 'Open For Work'
       },
       contact: {
-        linkedIn: <a> 'https://linkedin.com/in/dimitraweinstein' </a>,
+        linkedIn: 'https://linkedin.com/in/dimitraweinstein',
         email: 'drenee.weinstein@gmail.com',
-        twitter: <a href="https://twitter.com/DubsCodes"> '@DubsCodes' </a>
-        instagram: <a href="https://www.instagram.com/dubscode2life/"> '@dubscode2life' </a>
+        twitter: '@DubsCodes',
+        instagram: '@dubscode2life'
       },
       parentOfHuman: true,
       human: {
@@ -51,8 +51,7 @@
         name: 'Marley',
         type: 'Canine',
         breed: 'Bull/Boxer/Lab Mix',
-        age: '7 years',
-        image: ![IMG_5096](https://user-images.githubusercontent.com/79294391/131956118-d723e579-9007-4203-8b16-a453fd7d376f.jpg)
+        age: '7 years'
       },
       interests: [
         'Reading',
@@ -64,6 +63,12 @@
     };
  ```
 
-![Dimi Dub's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitraweinstein&show_icons=true)
+<a href="https://github.com/dimitraweinstein/github-readme-stats">
+  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=dimitraweinstein&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/dimitraweinstein/top-langs">
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitraweinstein&layout=compact&theme=radical&show_icons=true&card_width=450" />
+</a>
+
 
 
