@@ -28,10 +28,10 @@
         company: 'Open For Work'
       },
       contact: {
-        linkedIn: https://linkedin.com/in/dimitraweinstein,
-        email: drenee.weinstein@gmail.com,
-        twitter: @DubsCodes,
-        instagram: @dubscode2life
+        linkedIn: <a href="https://linkedin.com/in/dimitraweinstein">https://linkedin.com/in/dimitraweinstein</a>,
+        email: mailto:drenee.weinstein@gmail.com,
+        twitter: <a href="https://twitter.com/dubscodes"> @DubsCodes </a>,
+        instagram: <a href="https://www.instagram.com/dubscode2life/">@dubscode2life</a>
       },
       parentOfHuman: true,
       human: {
