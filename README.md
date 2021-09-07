@@ -29,7 +29,7 @@
       },
       contact: {
         linkedIn: 'https://linkedin.com/in/dimitraweinstein',
-        email: 'mailto:drenee.weinstein@gmail.com',
+        email: 'drenee.weinstein@gmail.com',
         twitter: @DubsCodes,
         instagram: @dubscode2life
       },
